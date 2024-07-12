@@ -1,0 +1,4 @@
+---,bbbbbbbbb,iiiiiiiiiiiiiiiii,fffffffffff,ssssssssssss,ttttttttt,vvvvvvvvvvv,rrrrrrrrrrr,222222222dddddd,aaaaaaaaa
+NewRow,TRUE,1212,1.12,tete,"NSLOCTEXT(""[DE501FB48845C324F88AD0129AC22CF9]"", ""4A4E71784400133509FB6896647AAFBE"", ""text"")","(X=1.000000,Y=2.000000,Z=3.000000)",Elf,/Script/Engine.Texture2D'/Engine/EditorResources/Ai_Spawnpoint.Ai_Spawnpoint',/Script/Engine.BlueprintGeneratedClass'/Game/01_Blueprints/02_Actor/Monster.Monster_C'
+NewRow_0,TRUE,555,5555.55555,sserw,qweqweqwerr,"(X=0.000000,Y=0.000000,Z=0.000000)",None,None,/Script/UMGEditor.WidgetBlueprint'/Game/01_Blueprints/04_UI/UI_DMG.UI_DMG'
+NewRow_1,FALSE,0,0,,,"(X=0.000000,Y=0.000000,Z=0.000000)",None,None,None
